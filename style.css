@@ -11,4 +11,22 @@ header {
 }
 
 .main-contents {
-  
+  height: 200px;
+}
+
+.sideber {
+  width: 30%;
+  background-color: #EF598D;
+}
+
+.main-section {
+  width: 70%;
+  background-color: #FFDA63;
+}
+
+footer {
+  height: 200px;
+  background-color: #A1B3D1;
+  padding-top: 10px;
+}
+
