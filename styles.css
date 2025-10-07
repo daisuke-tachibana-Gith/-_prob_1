@@ -12,6 +12,7 @@ header {
 
 .main-contents {
   height: 600px;
+  display: flex;
 }
 
 .sidebar {
